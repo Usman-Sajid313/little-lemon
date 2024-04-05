@@ -1,0 +1,43 @@
+.base{
+    background-color: #495e57;
+    display: flex;
+    justify-content: center;
+    height: 340px;
+    box-shadow: 3px 3px 3px black;
+}
+.himg{
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+}
+.base h1{
+    color: #f4ce14;
+    font-weight: 700;
+    font-size: 50px;
+}
+.base h3{
+    color: white;
+    font-weight: 700;
+    font-size: 35px;
+
+}
+.base p{
+    color: white;
+    word-wrap: break-word;
+    width: 300px;
+    font-size: 20px;
+}
+.hbtn{
+    color: black;
+    background-color: #f4ce14;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.hbtn:hover{
+    background-color: orange;
+}

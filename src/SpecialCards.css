@@ -1,0 +1,42 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cBg{
+    background-color: #edefee;
+}
+
+.cardsImg{
+    float: left;
+    width:  400px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.pCards{
+    word-wrap: break-word;
+    width: 340px;
+    font-size: 20px;
+}
+
+.ctitle{
+   display: flex;
+   justify-content: space-between;
+}
+
+.ctitle h5{
+    font-size: 30px;
+}
+
+.price{
+    color: #ff8147;
+}
+
+.order{
+    font-size: 18px;
+}
+
+.order:hover{
+    color: blue;
+}

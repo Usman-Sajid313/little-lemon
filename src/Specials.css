@@ -1,0 +1,20 @@
+.base2{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+.sh1{
+    font-size: 60px;
+    font-weight: 800;
+}
+.sbtn{
+    background-color: #f4ce14;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.sbtn:hover{
+    background-color: orange;
+}

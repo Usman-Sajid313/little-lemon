@@ -1,0 +1,52 @@
+.aboutUs{
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+}
+
+.aBg{
+    background-color: #495e57;
+}
+
+.about1 p{
+    word-wrap: break-word;
+    width: 400px;
+    color : white;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.about1 h1{
+    color: #f4ce14;
+    font-weight: 800;
+    font-size: 70px;
+}
+
+.about1 h3{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.about2 img{
+    width: 350px;
+    height: 420px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image2 {
+    position: absolute;
+    top: 130px;
+    right: 200px;
+}

@@ -1,0 +1,52 @@
+.th1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.s1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.s1 h5{
+    font-size: 20px;
+    font-weight: 800;
+
+}
+
+.s2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.s2 h5{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.tCards img{
+    float: left;
+    width:  80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.main section{
+    background-color: #EDEFEE;
+    border-radius: 20px;
+    height: 200px;
+    width: 225px;
+}
+.main p{
+    font-size: 18px;
+    font-weight: 700;
+}
